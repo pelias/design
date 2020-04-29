@@ -69,3 +69,13 @@ Branding &amp; graphic design guidelines and assets
 
 
 ![Vertical white](./logo/pelias/Pelias%20Logo%20SVG/Pelias%20-%20Logo_vertical_white.svg)
+
+## Favicons
+
+### PNG
+
+![](./logo/pelias/Favicon/Favicon-PNG/Favicon_16x16.png) ![](./logo/pelias/Favicon/Favicon-PNG/Favicon_32x32.png) ![](./logo/pelias/Favicon/Favicon-PNG/Favicon_64x64.png)
+
+### SVG
+
+![](./logo/pelias/Favicon/Favicon-SVG/Favicon_16x16.svg)
