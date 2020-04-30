@@ -2,6 +2,10 @@
 
 Branding &amp; graphic design guidelines and assets
 
+## Brand Guidelines
+
+[PDF](./Pelias_Brand_Guideliness_RGB.pdf)
+
 ## Logos
 
 ### PNG
