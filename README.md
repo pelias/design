@@ -83,3 +83,25 @@ Branding &amp; graphic design guidelines and assets
 ### SVG
 
 ![](./logo/pelias/Favicon/Favicon-SVG/Favicon_16x16.svg)
+
+## Maps
+
+Maps are provided by [**Jawg**Maps](https://jawg.io), the style used in our repositories is `jawg-terrain`.
+When you are using maps, JawgMaps and OSM attributions are mandatory, don't forget that.
+
+```html
+<head>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"/>
+  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+</head>
+<body>
+<div id="map" style="width: 100%; height: 100%;"></div>
+<script>
+  var map = L.map('map').setView([0.0, 0.0], 1);
+  L.tileLayer('https://tile.jawg.io/jawg-terrain/{z}/{x}/{y}.png?access-token=t6fAKnvaPdPCucraY88YwlKjBfUHqBMvvZBIWlcp1Z9Z5FVtA02uWo6Dc9DGB2JO', {
+    attribution: 'Map &copy; <a href="http://jawg.io" target="_blank" class="jawg-attrib"><b>Jawg</b>Maps</a> | Map data &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" class="osm-attrib">OpenStreetMap contributors</a>',
+    maxZoom: 22
+  }).addTo(map);
+</script>
+</body>
+```
