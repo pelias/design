@@ -102,7 +102,7 @@ Branding &amp; graphic design guidelines and assets
 ## Maps
 
 Maps are provided by [**Jawg**Maps](https://jawg.io), the style used in our repositories is `jawg-terrain`.
-When you are using maps, JawgMaps and OSM attributions are mandatory, don't forget that.
+When you are using maps, JawgMaps and OSM attributions are mandatory.
 
 ```html
 <head>
