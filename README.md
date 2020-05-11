@@ -24,7 +24,8 @@ Pelias is a search engine for places worldwide, powered by open data. It turns a
 We think open data, open source, and open strategy win over proprietary solutions at any part of the stack and we want to ensure the services we offer are in line with that vision. We believe that an open geocoder improves over the long-term only if the community can incorporate truly representative local knowledge.
 </details>
 
-#### Pelias Design
+
+# Pelias Design
 
 Branding &amp; graphic design guidelines and assets
 
