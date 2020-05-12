@@ -2,7 +2,7 @@
   <img height="100" src="https://raw.githubusercontent.com/pelias/design/master/logo/pelias_github/Github_markdown_hero.png">
 </p>
 <h3 align="center">A modular, open-source search engine for our world.</h3>
-<p align="center">Pelias is powered completely by open data, available freely to everyone.</p>
+<p align="center">Pelias is a geocoder powered completely by open data, available freely to everyone.</p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/pelias/api?color=orange" />
 	<img src="https://img.shields.io/docker/pulls/pelias/api?color=informational" />
